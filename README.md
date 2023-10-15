@@ -6,6 +6,10 @@
 <a href="https://simpleicons.org" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
 
 ## 🏅 My stats 🏅
+<div align="center">
+  
 ![SeungGwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungGwan123&show_icons=true&theme=merko)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skwan123)](https://solved.ac/skwan123)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skwan123)](https://solved.ac/skwan123)
+
+</div>
