@@ -4,7 +4,7 @@
 ## 🔨 Once I've used 🔨
 <a href="https://simpleicons.org" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
 <a href="https://simpleicons.org" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
-
+<a href="https://simpleicons.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 ## 🏅 My stats 🏅
 <div align="center">
   
