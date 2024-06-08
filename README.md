@@ -12,6 +12,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skwan123)](https://solved.ac/skwan123)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=SeungGwan)](https://velog.io/@eungyeole) 
-
 </div>
+
+## 🔑 My Velog 🔑
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=SeungGwan)](https://velog.io/@seunggwan/posts) 
+
+
